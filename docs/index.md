@@ -9,3 +9,4 @@
 - [第 3 章 精简基础](ch03-foundations.md)
 - [第 4 章 出口类型与任务匹配](ch04-egress.md)
 - [第 5 章 代理池](ch05-proxy-pool.md)
+- [第 6 章 验证码与挑战页](ch06-captcha.md)
