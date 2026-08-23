@@ -37,3 +37,5 @@ nav:
   - 首页: index.md
   - 前言: preface.md
   - 目录: outline.md
+  - 第一部分 路线与精简基础:
+    - 第 1 章 怎么读这本书: ch01-how-to-read.md
