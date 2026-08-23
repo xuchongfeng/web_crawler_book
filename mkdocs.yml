@@ -43,3 +43,4 @@ nav:
     - 第 3 章 精简基础: ch03-foundations.md
   - 第二部分 出口与风险:
     - 第 4 章 出口类型与任务匹配: ch04-egress.md
+    - 第 5 章 代理池: ch05-proxy-pool.md

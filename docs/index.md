@@ -8,3 +8,4 @@
 - [第 2 章 爬虫难在哪里](ch02-why-hard.md)
 - [第 3 章 精简基础](ch03-foundations.md)
 - [第 4 章 出口类型与任务匹配](ch04-egress.md)
+- [第 5 章 代理池](ch05-proxy-pool.md)
