@@ -1,0 +1,39 @@
+site_name: Web 爬虫实战
+site_description: 一本面向实践的 Web 爬虫教程
+site_url: https://YOUR_GITHUB_USERNAME.github.io/web_crawler_book/
+repo_url: https://github.com/YOUR_GITHUB_USERNAME/web_crawler_book
+repo_name: YOUR_GITHUB_USERNAME/web_crawler_book
+edit_uri: ""
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: 切换至浅色模式
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 切换至深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 切换至跟随系统
+
+markdown_extensions:
+  - pymdownx.highlight:
+      guess_lang: false
+  - pymdownx.superfences
+
+nav:
+  - 首页: index.md
+  - 前言: preface.md
+  - 目录骨架: outline.md
