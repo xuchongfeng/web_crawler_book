@@ -36,6 +36,6 @@ mkdocs build --strict
 1. 创建 GitHub 仓库 `web_crawler_book`，push `main`。
 2. 打开仓库 **Settings → Pages**，Source 选 **GitHub Actions**（不要选 branch / `gh-pages`）。
 3. 等待 Actions 工作流成功。
-4. 打开 `https://xuchongfeng.github.io/web_crawler_book/`，确认首页、前言、目录骨架都能打开，硬刷新后样式和搜索不是 404。
+4. 打开 `https://xuchongfeng.github.io/web_crawler_book/`，确认首页、前言、目录都能打开，硬刷新后样式和搜索不是 404。
 
 之后每次 push `main`（或手动 Run workflow）都会重新发布。Pull Request 不会部署。

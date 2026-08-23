@@ -36,4 +36,4 @@ markdown_extensions:
 nav:
   - 首页: index.md
   - 前言: preface.md
-  - 目录骨架: outline.md
+  - 目录: outline.md
