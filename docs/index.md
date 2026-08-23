@@ -6,3 +6,4 @@
 - [目录](outline.md)
 - [第 1 章 怎么读这本书](ch01-how-to-read.md)
 - [第 2 章 爬虫难在哪里](ch02-why-hard.md)
+- [第 3 章 精简基础](ch03-foundations.md)
