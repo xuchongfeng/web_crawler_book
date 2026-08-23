@@ -1,8 +1,8 @@
 site_name: Web 爬虫实战
 site_description: 一本面向实践的 Web 爬虫教程
-site_url: https://YOUR_GITHUB_USERNAME.github.io/web_crawler_book/
-repo_url: https://github.com/YOUR_GITHUB_USERNAME/web_crawler_book
-repo_name: YOUR_GITHUB_USERNAME/web_crawler_book
+site_url: https://xuchongfeng.github.io/web_crawler_book/
+repo_url: https://github.com/xuchongfeng/web_crawler_book
+repo_name: xuchongfeng/web_crawler_book
 edit_uri: ""
 
 theme:
