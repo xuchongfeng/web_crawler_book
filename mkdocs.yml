@@ -55,3 +55,5 @@ nav:
   - 第五部分 客户端分析:
     - 第 12 章 源码与制品从哪来: ch12-artifacts.md
     - 第 13 章 静态工具链: ch13-static-tools.md
+    - 第 14 章 加固认知与教学壳: ch14-hardening.md
+    - 第 15 章 混淆与还原（自有包）: ch15-obfuscation.md
