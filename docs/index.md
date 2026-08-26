@@ -11,3 +11,5 @@
 - [第 5 章 代理池](ch05-proxy-pool.md)
 - [第 6 章 验证码与挑战页](ch06-captcha.md)
 - [第 7 章 授权账号工程](ch07-accounts.md)
+- [第 8 章 账号滥用红线](ch08-abuse-lines.md)
+- [第 9 章 App 流量与抓包](ch09-app-traffic.md)
