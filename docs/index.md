@@ -13,3 +13,7 @@
 - [第 7 章 授权账号工程](ch07-accounts.md)
 - [第 8 章 账号滥用红线](ch08-abuse-lines.md)
 - [第 9 章 App 流量与抓包](ch09-app-traffic.md)
+- [第 10 章 协议、签名形态与增量](ch10-protocol.md)
+- [第 11 章 客户端形态与 UI 触发](ch11-ui-trigger.md)
+- [第 12 章 源码与制品从哪来](ch12-artifacts.md)
+- [第 13 章 静态工具链](ch13-static-tools.md)
