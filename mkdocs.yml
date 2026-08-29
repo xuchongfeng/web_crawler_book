@@ -58,3 +58,5 @@ nav:
     - 第 14 章 加固认知与教学壳: ch14-hardening.md
     - 第 15 章 混淆与还原（自有包）: ch15-obfuscation.md
     - 第 16 章 Frida：授权调试器: ch16-frida.md
+    - 第 17 章 JNI、so 与调起（自研 so）: ch17-jni-so.md
+    - 第 18 章 分析结果回流采集系统: ch18-reflow.md
