@@ -24,3 +24,7 @@
 - [第 18 章 分析结果回流采集系统](ch18-reflow.md)
 - [第 19 章 群控作为工程问题](ch19-device-farm.md)
 - [第 20 章 云手机、混部与观测](ch20-cloud-phone.md)
+- [第 21 章 采集系统分层](ch21-layers.md)
+- [第 22 章 部署、监控与应急](ch22-ops.md)
+- [第 23 章 抽取与评测](ch23-extract.md)
+- [第 24 章 助手、路由与 Agent 边界](ch24-agent.md)
