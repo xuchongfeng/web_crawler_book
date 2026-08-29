@@ -22,3 +22,5 @@
 - [第 16 章 Frida：授权调试器](ch16-frida.md)
 - [第 17 章 JNI、so 与调起（自研 so）](ch17-jni-so.md)
 - [第 18 章 分析结果回流采集系统](ch18-reflow.md)
+- [第 19 章 群控作为工程问题](ch19-device-farm.md)
+- [第 20 章 云手机、混部与观测](ch20-cloud-phone.md)
