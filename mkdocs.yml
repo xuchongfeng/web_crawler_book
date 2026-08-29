@@ -69,3 +69,6 @@ nav:
   - 第八部分 AI 工作流:
     - 第 23 章 抽取与评测: ch23-extract.md
     - 第 24 章 助手、路由与 Agent 边界: ch24-agent.md
+  - 第九部分 案例:
+    - 第 25 章 案例模板与复盘: ch25-case-template.md
+    - 第 26 章 案例集: ch26-cases.md

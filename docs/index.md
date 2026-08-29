@@ -28,3 +28,5 @@
 - [第 22 章 部署、监控与应急](ch22-ops.md)
 - [第 23 章 抽取与评测](ch23-extract.md)
 - [第 24 章 助手、路由与 Agent 边界](ch24-agent.md)
+- [第 25 章 案例模板与复盘](ch25-case-template.md)
+- [第 26 章 案例集](ch26-cases.md)
